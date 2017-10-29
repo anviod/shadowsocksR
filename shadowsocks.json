@@ -1,0 +1,28 @@
+{
+     "server":"0.0.0.0",
+     "server_ipv6": "[::]",
+     "local_address":"127.0.0.1",
+     "local_port":1080,
+     "port_password":{
+         "9527":"!QAZ2wsx#EDC",
+         "2000":"MjA0OA",
+         "3000":"MzU2NA",
+         "4000":"ODU2NA",
+         "5000":"OTUwMA",
+         "6000":"OTYwMA",
+         "7000":"NzAwMA",
+         "8000":"ODAwMA",
+         "9000":"OTAwMA",
+         "9090":"OTkwMA"                
+     },
+     "timeout":300,
+     "method":"aes-256-cfb",
+     "protocol": "auth_sha1_compatible",
+     "protocol_param": "",
+     "obfs": "http_simple_compatible",
+     "obfs_param": "",
+     "redirect": "",
+     "dns_ipv6": false,
+     "fast_open": false,
+     "workers": 4
+ }
